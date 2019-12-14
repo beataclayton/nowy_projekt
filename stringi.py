@@ -9,3 +9,6 @@ def center(txt):
 
 def count(txt):
     return txt.count()
+
+def endswith(txt):
+    return txt
